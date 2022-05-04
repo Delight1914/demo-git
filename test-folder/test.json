@@ -1,1 +1,17 @@
-
+{
+  "global": {
+    "h1-regular": {
+      "value": {
+        "fontFamily": "Poppins",
+        "fontWeight": "Regular",
+        "lineHeight": "80",
+        "fontSize": "64",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "As typed",
+        "textCase": "none"
+      },
+      "type": "typography"
+    }
+  }
+}
