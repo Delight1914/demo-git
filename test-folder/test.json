@@ -2,7 +2,7 @@
   "global": {
     "h1-regular": {
       "value": {
-        "fontFamily": "Poppins",
+        "fontFamily": "Roboto",
         "fontWeight": "Regular",
         "lineHeight": "80",
         "fontSize": "64",
